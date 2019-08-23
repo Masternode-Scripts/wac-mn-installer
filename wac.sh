@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='wac.conf'
-CONFIGFOLDER='/root/.WAC'
+CONFIGFOLDER='/root/.wac'
 COIN_DAEMON='/usr/local/bin/wacd'
 COIN_CLI='/usr/local/bin/wac-cli'
 COIN_REPO='https://www.dropbox.com/s/y4z9jfu167987wy/wac.tar.gz'
